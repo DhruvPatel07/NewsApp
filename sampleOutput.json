@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Australia scientists find 'spooky' spinning object in Milky Way - BBC News",
+            "description": "Australian scientists say the spinning object is unlike anything astronomers have seen before.",
+            "url": "https://www.bbc.com/news/world-australia-60150542",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77E3/production/_123019603_visible_transient_marked-1024x615.jpg",
+            "publishedAt": "2022-01-27T05:18:18Z",
+            "content": "Image source, ICRAR/Curtin\r\nImage caption, An image showing the Milky Way as viewed from Earth, with the star icon showing the position of the mysterious repeating transient.\r\nAustralian scientists s… [+2057 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Futures Fall After Hawkish Fed Wipes Out Big Gains; Tesla Leads Late Movers - Investor's Business Daily",
+            "description": "Stocks erased big gains as Fed chief Jerome Powell signaled rate hikes and more. Tesla beat views.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-powell-hawkish-comments-wipes-out-market-rally-tesla-headlines-earnings/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/06/Stock-TeslaCyberTruck-06-adobe.jpg",
+            "publishedAt": "2022-01-27T02:57:00Z",
+            "content": "Dow Jones futures fell sharply overnight, along with S&amp;P 500 futures and Nasdaq futures, as Tesla (TSLA) headlined key earnings after hours and as investors continued to mull a hawkish Fed. The s… [+10431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Nets won't listen to trade offers for James Harden leading up to deadline, per report - CBS Sports",
+            "description": "Harden can become an unrestricted free agent after the season",
+            "url": "https://www.cbssports.com/nba/news/nets-wont-listen-to-trade-offers-for-james-harden-leading-up-to-deadline-per-report/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/26/0e9f2b66-8bed-449a-9d2b-81e60a26b663/thumbnail/1200x675/e138c1e539a6fca28735b054e6070ba6/untitled-design-93.png",
+            "publishedAt": "2022-01-27T02:21:00Z",
+            "content": "Rival teams hoping to potentially pry James Harden away from the Brooklyn Nets prior to the NBA trade deadline on Feb. 10 will be disappointed. The Nets don't plan to listen to any outside offers for… [+2639 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Nick Timiraos",
+            "title": "Fed Interest-Rate Decision Tees Up March Increase - The Wall Street Journal",
+            "description": "Officials have accelerated plans to unwind support for the economy in the midst of rising inflation",
+            "url": "https://www.wsj.com/articles/fed-tees-up-march-interest-rate-increase-11643223603",
+            "urlToImage": "https://images.wsj.net/im-474851/social",
+            "publishedAt": "2022-01-26T23:17:00Z",
+            "content": "The Federal Reserve signaled it would begin steadily raising interest rates in mid-March, its latest move toward removing stimulus to bring down inflation.Fed Chairman\r\nJerome Powell\r\nsaid Wednesday … [+7474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MMA Fighting"
+            },
+            "author": "Damon Martin",
+            "title": "Charles Oliveira defends lightweight title against Justin Gaethje at UFC 274 - MMA Fighting",
+            "description": "The lightweight title will go up for grabs when Charles Oliveira faces off with Justin Gaethje at UFC 274, which is scheduled for May 7 at a location still to be determined.",
+            "url": "https://www.mmafighting.com/2022/1/26/22903249/charles-oliveira-defends-lightweight-title-against-justin-gaethje-at-ufc-274",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/iN3mZjFx74EdIZGAQXQDpB2Ig8o=/0x0:3159x1654/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23197763/1358895077.jpg",
+            "publishedAt": "2022-01-26T22:02:44Z",
+            "content": "Charles Oliveira is expected to put his lightweight title on the line against Justin Gaethje at the upcoming UFC 274 card scheduled on May 7.\r\nMultiple sources close to the situation confirmed the ne… [+1379 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Anne Steele",
+            "title": "Spotify to Take Down Neil Young’s Music After His Joe Rogan Ultimatum - The Wall Street Journal",
+            "description": "The folk-rock star won’t back down after discussions with his record label and Spotify",
+            "url": "https://www.wsj.com/articles/neil-youngs-music-is-being-taken-down-by-spotify-after-ultimatum-over-joe-rogan-11643230104",
+            "urlToImage": "https://images.wsj.net/im-474811/social",
+            "publishedAt": "2022-01-26T21:41:00Z",
+            "content": "Spotify Technology SA\r\nis removing\r\nNeil Youngs\r\nmusic, as the folk-rock star isnt wavering in his objections to Joe Rogans podcast. The Heart of Gold and Harvest Moon singer earlier this week penned… [+1667 chars]"
+        }
+    ]
+}
